@@ -47,3 +47,4 @@ I used tools like ModelSim or equivalent simulators to simulate the pipeline pro
 **7. Result Analysis:**
 I verified that the pipeline processor executes multiple instructions simultaneously without conflict, ensuring efficiency. The simulation results validated the proper operation of all stages with correct data outputs.
 
+##OUTPUT##
