@@ -48,3 +48,4 @@ I used tools like ModelSim or equivalent simulators to simulate the pipeline pro
 I verified that the pipeline processor executes multiple instructions simultaneously without conflict, ensuring efficiency. The simulation results validated the proper operation of all stages with correct data outputs.
 
 ## **OUTPUT**
+<img width="1366" height="654" alt="Image" src="https://github.com/user-attachments/assets/7243bb90-8ec5-4661-a412-be9ac5eb1dfb" />
